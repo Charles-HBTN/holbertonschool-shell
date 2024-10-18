@@ -1,2 +1,2 @@
 #!/bin/bash 
- mv "My_file" /tmp/u
+ mv "My_file" "/tmp/u"
