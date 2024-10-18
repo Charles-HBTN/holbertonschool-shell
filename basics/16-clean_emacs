@@ -1,2 +1,2 @@
 #!/bin/bash 
-rm "file0.c~" "file1.c~"
+rm -rf "file0.c~" "file1.c~"
