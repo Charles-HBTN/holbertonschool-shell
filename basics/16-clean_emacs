@@ -1,2 +1,2 @@
 #!/bin/bash 
-rm "Makefile~"
+rm "file0.c~"
